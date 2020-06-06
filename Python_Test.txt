@@ -4,7 +4,15 @@ selenium Webdriver
 Python 3.0
 project on Github
 
+The total segment is divided into various stages and 
 
 thanks and Regards
 
+
+done y changes
+
+
+...
+=======
 final copy done
+
